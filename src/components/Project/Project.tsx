@@ -20,7 +20,7 @@ const Projects = () => {
           <ProjectItem
             img={watherApp}
             title='Weather App'
-            linkProject='https://weather-app-iamedev-production.up.railway.app/'
+            linkProject='https://weather-app-iamedev.vercel.app/'
           />
         </div>
       </div>

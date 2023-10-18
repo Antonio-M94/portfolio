@@ -9,16 +9,13 @@ const Work = () => {
       duration: '1 Years',
       details: `I have worked in the development team in IT projects at Michelin in the Front-End area under the agile methodologies scheme.`,
       tasks: [
-        `Design of the user interface in Michelin projects, using Frontend
-          projects, using Frontend technologies such as React TypeScript Material UI and the company's own libraries.`,
-        `Creation of new IT functionalities applied to the user interface of Michelin's platforms.
-          to the user interface of Michelin's platforms.`,
+        `Design of the user interface in Michelin projects, using frontend technologies such as React, TypeScript, Material UI, and the company's proprietary libraries.`,
+        `Creation of new IT functionalities applied to the user interface of Michelin's platforms.`,
         `Implementation of libraries such as React-Query to improve the user experience when
           improve the user experience when querying the information
           information coming from the Back-End.`,
         `Elaboration of multiple FrontEnd related tasks using agile methodologies such as Kanban and Scrum.`,
-        `Elaboration of tasks together with developers of
-            Back-End developers.`,
+        `Collaboration on tasks with Back-End developers.`,
         `Elaboration of multiple FrontEnd related tasks using agile methodologies such as Kanban and Scrum.`,
         `Problem reporting for the elaboration of work tickets.`,
       ],
